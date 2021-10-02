@@ -6,6 +6,7 @@ Hey fellow developers 👋
 
 * Top Level Directory must be named as `TechStackName or Language's Name` (e.g `Web Dev`)
 * Add your projects in your respective directories.
+* Create an issue first, then follow the steps in the 'Getting Started' section.
 
 ## Getting Started
 
