@@ -9,17 +9,17 @@ Hey fellow developers 👋
 
 ## Getting Started
 
-Fork this repo
-Clone on your local machine
+* Fork this repo
+* Clone on your local machine
 `git clone <repositorylink>`
-Create a new branch
+* Create a new branch
 `git checkout -b <branchname>`
-Add your contributions
+* Add your contributions
 `git add .`
-Make commits 
+* Make commits 
 `git commit -m "a brief message to describe your contributions"`
-Push your code
+* Push your code
 `git push origin <branchname>`
-Create a pull request.
+* Create a pull request.
 
 Thank you for your contributions to this repository!
